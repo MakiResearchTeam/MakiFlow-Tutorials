@@ -2,11 +2,14 @@
 
 This repo contains tutorials on how to use MakiFlow framework. Most of the examples can be run via [Google-Colab](https://colab.research.google.com/ "Google-Colab"). Still in development.
 
----
+Content:
 
-[TOC]
+* [Main folders and their contents](#markdown-header-main-folders-and-their-contents)
+	* [Classification](#markdown-header-classification)
+	* [Neural render](#markdown-header-neural-render)
+	* [Regression](#markdown-header-regression)
+	* [Segmentation](#markdown-header-segmentation)
 
----
 
 ## Main folders and their contents
 
